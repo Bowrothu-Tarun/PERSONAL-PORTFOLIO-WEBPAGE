@@ -2,8 +2,8 @@
 
 ## 🏢 Internship Details
 
-- **Company:** CODTECH IT Solutions  
-
+- **Company:** CODTECH IT Solutions
+- 
 - **Name:** Bowrothu Tarun  
 
 - **Intern ID:** :CT04DG100
